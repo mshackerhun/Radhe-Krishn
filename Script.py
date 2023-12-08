@@ -425,7 +425,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
     LOGO = """
 
-BOT WORKING PROPERLY"""
+JAI SHREE KRISHN RADHE KRISHN"""
  
     TAMIL_INFO = """<b>
 ஏய் <a href='tg://settings'>My Friend</a> 
